@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>AntonioRough.png</Source>
+      <Name>AntonioRough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioRough.xnb</Output>
+      <Time>2012-09-18T21:06:26.1253481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseRough.png</Source>
+      <Name>JoseRough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseRough.xnb</Output>
+      <Time>2012-09-18T21:06:57.3151321-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CactusAnimation.png</Source>
+      <Name>CactusAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\CactusAnimation.xnb</Output>
+      <Time>2012-09-24T20:10:40.1804801-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2011-04-01T09:42:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CactusHit.png</Source>
+      <Name>CactusHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\CactusHit.xnb</Output>
+      <Time>2012-10-01T22:54:42.1981229-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rawr.png</Source>
+      <Name>rawr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\rawr.xnb</Output>
+      <Time>2012-10-02T00:00:50.8991196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RedCactusAnimation.png</Source>
+      <Name>RedCactusAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\RedCactusAnimation.xnb</Output>
+      <Time>2012-10-02T00:44:41.9176053-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RedCactusHit.png</Source>
+      <Name>RedCactusHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\RedCactusHit.xnb</Output>
+      <Time>2012-10-02T00:12:04.125626-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Taco.png</Source>
+      <Name>Taco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Taco.xnb</Output>
+      <Time>2012-10-03T00:52:48.6718256-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CactusAttack.png</Source>
+      <Name>CactusAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\CactusAttack.xnb</Output>
+      <Time>2012-10-02T17:01:09.0980606-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RedCactusAttack.png</Source>
+      <Name>RedCactusAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\RedCactusAttack.xnb</Output>
+      <Time>2012-10-02T19:49:16.5141498-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioHead.png</Source>
+      <Name>AntonioHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioHead.xnb</Output>
+      <Time>2012-10-03T00:32:14.0892115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseHead.png</Source>
+      <Name>JoseHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseHead.xnb</Output>
+      <Time>2012-10-03T00:18:47.2010602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Vamonos.png</Source>
+      <Name>Vamonos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Vamonos.xnb</Output>
+      <Time>2012-10-09T02:55:39.7875803-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Ataque.png</Source>
+      <Name>Ataque</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Ataque.xnb</Output>
+      <Time>2012-10-09T01:51:43.6508169-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioJumping.png</Source>
+      <Name>AntonioJumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioJumping.xnb</Output>
+      <Time>2012-10-14T21:51:34.2655258-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterShadow.png</Source>
+      <Name>CharacterShadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\CharacterShadow.xnb</Output>
+      <Time>2012-10-24T21:58:07.6808758-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioKicking.png</Source>
+      <Name>AntonioKicking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioKicking.xnb</Output>
+      <Time>2012-10-15T14:51:39.9736116-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseJumping.png</Source>
+      <Name>JoseJumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseJumping.xnb</Output>
+      <Time>2012-10-18T11:54:36.3180286-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseKicking.png</Source>
+      <Name>JoseKicking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseKicking.xnb</Output>
+      <Time>2012-10-18T11:59:20.5102834-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseIdle.png</Source>
+      <Name>JoseIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseIdle.xnb</Output>
+      <Time>2012-09-25T19:56:35.4009151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioIdle.png</Source>
+      <Name>AntonioIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioIdle.xnb</Output>
+      <Time>2012-09-25T19:57:42.7137652-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioWalkingAnimation.png</Source>
+      <Name>AntonioWalkingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioWalkingAnimation.xnb</Output>
+      <Time>2012-10-02T22:26:35.903052-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseWalkingAnimation.png</Source>
+      <Name>JoseWalkingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseWalkingAnimation.xnb</Output>
+      <Time>2012-09-28T18:37:32.2031182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioPunching.png</Source>
+      <Name>AntonioPunching</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioPunching.xnb</Output>
+      <Time>2012-10-02T22:20:54.4555223-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JosePunching.png</Source>
+      <Name>JosePunching</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JosePunching.xnb</Output>
+      <Time>2012-10-02T22:48:11.0201284-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonioHit.png</Source>
+      <Name>AntonioHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\AntonioHit.xnb</Output>
+      <Time>2012-10-02T22:15:27.1197997-04:00</Time>
+    </Item>
+    <Item>
+      <Source>JoseHit.png</Source>
+      <Name>JoseHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\JoseHit.xnb</Output>
+      <Time>2012-10-09T02:12:27.7849773-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Box.png</Source>
+      <Name>Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Box.xnb</Output>
+      <Time>2012-10-24T16:30:51.2227346-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RopeBridge.png</Source>
+      <Name>RopeBridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\RopeBridge.xnb</Output>
+      <Time>2012-10-25T14:00:18.5819971-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MountainsBackground.png</Source>
+      <Name>MountainsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\MountainsBackground.xnb</Output>
+      <Time>2012-11-06T00:19:21.6665118-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DesertBackground.png</Source>
+      <Name>DesertBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\DesertBackground.xnb</Output>
+      <Time>2012-11-06T00:22:35.3935923-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundRough.png</Source>
+      <Name>BackgroundRough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\BackgroundRough.xnb</Output>
+      <Time>2012-11-05T18:01:56.9073665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EndlessPit.png</Source>
+      <Name>EndlessPit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\EndlessPit.xnb</Output>
+      <Time>2012-11-05T18:02:47.1162382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBackground.png</Source>
+      <Name>SkyBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\SkyBackground.xnb</Output>
+      <Time>2012-11-06T00:41:32.8976538-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spikes.png</Source>
+      <Name>Spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Spikes.xnb</Output>
+      <Time>2012-10-15T22:51:07.3680389-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TacoShack.png</Source>
+      <Name>TacoShack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\TacoShack.xnb</Output>
+      <Time>2012-11-23T16:12:54.5743371-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HawkFlying.png</Source>
+      <Name>HawkFlying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\HawkFlying.xnb</Output>
+      <Time>2012-11-29T11:30:45.5709148-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.png</Source>
+      <Name>Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2012-12-06T15:09:27.8354428-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuIcon.png</Source>
+      <Name>MenuIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\MenuIcon.xnb</Output>
+      <Time>2012-12-05T14:41:03.1030326-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\AntonioContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\AntonioContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Don Miguel\Desktop\Games\Bear\Antonio\Antonio\Antonio\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-27T14:39:40.8729955-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
